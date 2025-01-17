@@ -1,3 +1,8 @@
+_Greetings Everybody! 😃_
+
+I'm **Amogha Raj Sandur**, a Newton School of Technology and Rishihood University freshman.
+
+<!---
 - 👋 Hi, I’m @amogharajsandur
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,6 +10,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--->
 
 <!---
 amogharajsandur/amogharajsandur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

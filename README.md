@@ -1,16 +1,16 @@
 Namaste, everyone, **Amogha** here! 🙏
 
 > - I'm a **social media** enthusiast 🌐, **technology** lover 💻, and **content creator** 📸 originally from Ballari, Karnataka. 
-> - Currently, I'm _pursuing_ a **B.Tech** degree in Computer Science & Artificial Intelligence from Newton School of Technology, Rishihood University, Delhi NCR.
+> - I'm _pursuing_ a **B.Tech** degree in Computer Science & Artificial Intelligence from Newton School of Technology, Rishihood University, Delhi NCR.
 > - I have _intermediate_ coding experiences in **HTML**, **CSS**, **JavaScript**, and **Python** language(s).
+> - Currently, I'm learning [**React.js**](https://react.dev/) & **DSA**
 
-The best way to reach out to me is via [Email](mailto:amogharaj.sandur@yahoo.com), [Linkedin](https://www.linkedin.com/in/amogharajsandur/), and [Instagram](https://www.instagram.com/amogharajsandur/).
+The best way to reach out to me is via [Email](mailto:amogharaj.sandur@yahoo.com), [LinkedIn](https://www.linkedin.com/in/amogharajsandur/), and [Instagram](https://www.instagram.com/amogharajsandur/).
 
-**Thank you for checking out my [projects](https://github.com/amogharajsandur?tab=repositories)!**
-
-If you enjoy my work, **please consider [sponsoring](https://github.com/sponsors/amogharajsandur) me. ❤️**
+**Thank you for checking out my [projects](https://github.com/amogharajsandur?tab=repositories)!** If you enjoy my work, **please consider [sponsoring](https://github.com/sponsors/amogharajsandur) me. ❤️**
 
 _Have a great day! ✨_
+
 <!---
 - 👋 Hi, I’m @amogharajsandur
 - 👀 I’m interested in ...
